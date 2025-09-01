@@ -1,0 +1,25 @@
+> > > This is the content of file1.
+> > > afile
+bfile
+file1
+mydir
+> First file content.
+> Second file content.
+> > > /testdir
+> > /
+> cd: nonexistent: No such file or directory.
+> > cd: mytext: Not a directory.
+> > > > > > afile
+bfile
+file1
+mydir
+mytext
+sub
+testdir
+topfile
+> inside
+> > create: dup: File exists
+> > mkdir: again: File exists
+> > > > > rmdir: dirfull: Directory not empty
+> > cp: original: No such file or directory.
+> > > > > > > > 

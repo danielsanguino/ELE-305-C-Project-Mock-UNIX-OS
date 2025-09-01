@@ -1,0 +1,71 @@
+mkdir mydir
+create file1
+This is the content of file1.
+
+cat file1
+create bfile
+Second file content.
+
+create afile
+First file content.
+
+ls
+cat afile
+cat bfile
+mkdir testdir
+cd testdir
+pwd
+cd ..
+pwd
+cd nonexistent
+create mytext
+Text inside mytext.
+
+cd mytext
+mkdir sub
+create topfile
+Top-level file.
+
+cd sub
+create inside
+Inner content.
+
+cd ..
+ls
+ls sub
+create dup
+Dup file content.
+
+create dup
+mkdir again
+mkdir again
+mkdir dirfull
+cd dirfull
+create file
+Some content.
+
+cd ..
+rmdir dirfull
+create a
+mkdir folder
+mv a folder
+ls folder
+cd ..
+create original
+Original content.
+
+
+cp original copy
+mkdir tree
+cd tree
+create leaf
+Leafy text.
+
+cd ..
+cp tree treecopy
+ls treecopy
+create apple
+create Banana
+create banana
+create Apple
+ls

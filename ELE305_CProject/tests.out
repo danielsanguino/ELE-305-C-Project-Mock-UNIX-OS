@@ -1,0 +1,25 @@
+> > > This is the content of file1.
+> > > > > > afile
+bfile
+file1
+> First file content.
+> Second file content.
+> > > /testdir
+> /
+> cd: nonexistent: No such file or directory.
+> > > cd: mytext: Not a directory.
+> > > > > > > topfile
+sub
+> inside
+> > Dup file content.
+> create: dup: File exists
+> > mkdir: again: File exists
+> > > > > rmdir: dirfull: Directory not empty
+> > > > > > > a
+> > Original content.
+> > > > Leafy text.
+> > > leaf
+> > > > > > Apple
+Banana
+apple
+banana
